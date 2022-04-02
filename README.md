@@ -753,6 +753,7 @@ Some data mining competition platforms
 - [Covid-19 Google](https://github.com/google-research/open-covid-19-data)
 - [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 - [5000 Images of Clothes](https://github.com/alexeygrigorev/clothing-dataset)
+- [Computer Science for Computer Scientists](https://www.reddit.com/r/algorithms/)
 
 ## Comics
 
